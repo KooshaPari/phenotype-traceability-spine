@@ -2,6 +2,8 @@
 
 Shared PM/traceability **spine** for [AgilePlus](https://example.invalid/AgilePlus) and [Tracera](https://example.invalid/Tracera).
 
+[![AI slop inside](https://sladge.net/badge.svg)](https://sladge.net) [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/KooshaPari/phenotype-traceability-spine/total)](https://github.com/KooshaPari/phenotype-traceability-spine/releases)
+
 This workspace is a **superset merge** of:
 
 - **tracera-core** — artifact graph, requirements, trace links, coverage matrix, impact analysis
