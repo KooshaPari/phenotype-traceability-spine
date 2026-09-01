@@ -59,3 +59,11 @@ cargo test
 ## License
 
 MIT OR Apache-2.0 (see workspace `Cargo.toml`).
+
+---
+
+## Status (2026-09-01)
+
+This repository is **superseded by [`KooshaPari/Tracera`](https://github.com/KooshaPari/Tracera)**.
+See `SUPERSEDED_BY_TRACERA.md` for the deprecation timeline and migration path.
+New development should target Tracera; this repo accepts bug fixes only until 2026-10-01.
